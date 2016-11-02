@@ -11,7 +11,8 @@ Adds markdown representation for GitHub entities which can be copied into wikis.
 ### Example:
 
 ```
-[Git Commit: dc94bb4 - update README](https://github.com/org/repo/commit/dc94bb4)
+[Git Commit: 295f1e4 - Update README](https://github.com/littlepea/userscripts/commit/295f1e4)
+[Pull Request on GitHub: #1 - Update README](https://github.com/littlepea/userscripts/pull/1)
 ```
 
 ### Features
@@ -21,6 +22,8 @@ Adds markdown representation for GitHub entities which can be copied into wikis.
 ![](https://www.evernote.com/l/AHRd20tUNxVLyIjGUEWy0wQATaImlvHAVQ8B/image.png)
 
 #### Display a markdown representation for Commits
+
+![](https://www.evernote.com/l/AHTsxQzXD01OoK_kFptVSiL2l0gWyOkUDi4B/image.png)
 
 #### Copy markdown text to clipboard
 
@@ -35,6 +38,6 @@ Adds markdown representation for GitHub entities which can be copied into wikis.
 
 * Just add the script to your TamperMonkey / GreaseMonkey scripts.
 * Or import by URL:
-   * https://raw.githubusercontent.com/littlepea/userscripts/master/src/GitHubMarkdown.jsÂ
+   * https://raw.githubusercontent.com/littlepea/userscripts/master/src/GitHubMarkdown.js
 
 ---
