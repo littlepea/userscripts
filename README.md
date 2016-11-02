@@ -18,6 +18,8 @@ Adds markdown representation for GitHub entities which can be copied into wikis.
 
 #### Display a markdown representation for Pull Requests
 
+![](https://www.evernote.com/l/AHRd20tUNxVLyIjGUEWy0wQATaImlvHAVQ8B/image.png)
+
 #### Display a markdown representation for Commits
 
 #### Copy markdown text to clipboard
