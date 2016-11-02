@@ -32,5 +32,7 @@ Adds markdown representation for GitHub entities which can be copied into wikis.
 ### Installation
 
 * Just add the script to your TamperMonkey / GreaseMonkey scripts.
+* Or import by URL:
+   * https://raw.githubusercontent.com/littlepea/userscripts/master/src/GitHubMarkdown.jsÂ
 
 ---
