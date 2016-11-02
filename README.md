@@ -1,6 +1,6 @@
 # UserScripts
 
-A collection of useful Tampermonkey scripts
+A collection of useful [Tampermonkey](http://tampermonkey.net/) scripts.
 
 ---
 
